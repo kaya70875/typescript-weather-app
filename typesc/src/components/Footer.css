@@ -1,0 +1,41 @@
+.footer{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 600px;
+    min-width: 400px;
+  }
+  
+  .left-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+  }
+  
+  .left-info p{
+    position: relative;
+    text-align: center;
+  }
+  
+  .left-info header{
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .right-info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+  }
+  
+  .right-info header{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  .right-info p{
+    position: relative;
+    text-align: center;
+  }

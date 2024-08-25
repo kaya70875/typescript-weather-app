@@ -1,0 +1,28 @@
+.input-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    border: 3px solid;
+    border-color: #5C4CC0;
+    margin: 60px;
+    border-radius: 20px;
+    max-height: 50px;
+    padding: 20px;
+    width: 300px;
+  }
+  
+  input{
+    border : none;
+    outline: none;
+    font-size: 20px;
+  }
+  
+  .input-container img{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+  
+    margin-left: 220px;
+    cursor: pointer;
+  }

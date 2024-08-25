@@ -1,0 +1,21 @@
+.location-section{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 160px;
+  }
+  
+  .location-section header{
+    position: relative;
+    font-size : 42px;
+    text-align: center;
+    color : #5C4CC0;
+    font-weight: 500;
+    padding-left: 25px;
+    margin-top: -4px;
+  }
+  
+  .location-section img{
+    width: 38px;
+    height: 48px;
+  }
